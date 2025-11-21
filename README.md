@@ -182,3 +182,14 @@ Ce TP couvre :
 - MVC Android
 
 Le projet est complet et opérationnel.
+
+
+
+## Démonstration Vidéo :
+
+
+
+
+
+https://github.com/user-attachments/assets/4e083a2e-c8fc-4017-91ad-517aa690708e
+
